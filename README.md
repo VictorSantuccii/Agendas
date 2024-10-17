@@ -84,7 +84,4 @@ A API estará disponível em: `http://localhost:5000`.
    ```
 5. Abra um Pull Request.
 
-## 📝 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
